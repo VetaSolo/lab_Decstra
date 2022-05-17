@@ -1,0 +1,10 @@
+NYC;Dublin;11;15
+Paris;Yerevan;3;N/A
+London;Ottava;7;12
+Batumi;SPb;5;N/A
+Dublin;Moscow;1;N/A
+Moscow;Rim;24;N/A
+Rim;SPb;6;3
+Rim;Batumi;9;N/A
+NYC;Mexico;18;N/A
+Yerevan;Batumi;15;3
